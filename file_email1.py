@@ -33,9 +33,9 @@ log("Program started")
 
 
 # Email details
-sender_email = "technoprogramer01@gmail.com"
-receiver_email = "alokkumar111200604@gmail.com"
-password = "dvbocsmlhpptxuoy"
+sender_email = "sender_email"
+receiver_email = "recevier_email"
+password = "your_password"
 
 subject = "File Attachment Test"
 body = "This email contains an attachment."
